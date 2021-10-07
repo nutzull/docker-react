@@ -1,4 +1,4 @@
-# build phase
+# build phaseee
 FROM node:alpine
 
 WORKDIR '/app'
